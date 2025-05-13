@@ -29,6 +29,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=Leoelo4&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <hr>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leoelo4/Leoelo4/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leoelo4/Leoelo4/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Leoelo4/Leoelo4/output/github-snake.svg" />
+</picture>
+
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
