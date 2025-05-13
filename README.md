@@ -40,4 +40,5 @@
 
 ## 🌐 Socials:
 ### Reach out to me using:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Leo.mills1709@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Leo.mills1709@gmail.com)
+<hr>
