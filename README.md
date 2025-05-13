@@ -12,7 +12,7 @@
 ## 👋 About Me:
 - 🖥️ **Computer Enthusiast**
 - 👨‍💻 **Aspiring Developer**
-- 🧑‍🎓 **Currently Studying Software Engineering In University**
+- 🎓 **Currently Studying Software Engineering In University**
 - 📖 **Learning New Technologies To Better Improve Skills**
 <hr>
 
