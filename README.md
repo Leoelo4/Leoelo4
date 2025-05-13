@@ -12,7 +12,6 @@
 - 👨‍💻 **Aspiring Developer**
 - 🧑‍🎓 **Currently Studying Software Engineering In University**
 - 📖 **Learning New Technologies To Better Improve Skills**
-<br>
 <hr>
 
 ## 💻 Currently Learning:
