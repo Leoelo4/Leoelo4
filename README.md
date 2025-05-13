@@ -1,13 +1,15 @@
+<img src="gitbanner.png">
+<br>
+<hr>
+
 <div align="text-align: center;">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00A3F7FF&width=435&lines=Hello,+My+Name+Is+Leo!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&repeat=true&&color=00A3F7FF&width=435&lines=Hello,+My+Name+Is+Leo!" alt="Typing SVG" />
   </h1>
 </div>
 <hr>
 
 ## 👋 About Me:
-<img align="right" width="400" src = "https://nirzak-streak-stats.vercel.app/?user=Leoelo4&theme=github_dark_dimmed&hide_border=false">
-
 - 🖥️ **Computer Enthusiast**
 - 👨‍💻 **Aspiring Developer**
 - 🧑‍🎓 **Currently Studying Software Engineering In University**
@@ -34,14 +36,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leoelo4/Leoelo4/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Leoelo4/Leoelo4/output/github-snake.svg" />
 </picture>
+<hr>
 
-<!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+### Reach out to me using:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Leo.mills1709@gmail.com) 
