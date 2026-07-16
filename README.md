@@ -1,4 +1,6 @@
-<img src="gitbanner.png">
+<div align="center">
+  <img src="xleo-terminal.svg" alt="XLEO" width="100%"/>
+</div>
 <br>
 <hr>
 
