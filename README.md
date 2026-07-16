@@ -2,7 +2,6 @@
   <img src="xleo-terminal.svg" alt="XLEO" width="100%"/>
 </div>
 <br>
-<hr>
 
 <div align="text-align: center;">
   <h1>
