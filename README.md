@@ -13,7 +13,7 @@
 ## 👋 About Me:
 - 🖥️ **Computer Enthusiast**
 - 👨‍💻 **Aspiring Developer**
-- 🎓 **Currently Studying Software Engineering In University**
+- 🎓 **1st Class Software Engineering Graduate**
 - 📖 **Learning New Technologies To Better Improve Skills**
 <hr>
 
