@@ -1,45 +1,72 @@
 <div align="center">
-  <img src="xleo-terminal.svg" alt="XLEO" width="100%"/>
+
+<img src="header.svg" alt="Hi, I'm Leo. Software Engineering graduate and aspiring developer." width="100%"/>
+
 </div>
-<br>
 
-<div align="text-align: center;">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&repeat=true&&color=00A3F7FF&width=435&lines=Hello,+My+Name+Is+Leo!" alt="Typing SVG" />
-  </h1>
+## ❯ Connect with me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/XLEO.DEV-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=0d1117&color=1f6feb)](https://xleo.dev)
+[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117&color=1f6feb)](mailto:Leo.mills1709@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117&color=1f6feb)](https://github.com/Leoelo4)
+![Profile views](https://komarev.com/ghpvc/?username=Leoelo4&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS&labelColor=0d1117)
+
 </div>
-<hr>
 
-## 👋 About Me:
-- 🖥️ **Computer Enthusiast**
-- 👨‍💻 **Aspiring Developer**
-- 🎓 **1st Class Software Engineering Graduate**
-- 📖 **Learning New Technologies To Better Improve Skills**
-<hr>
+## ❯ About me
 
-## 💻 Currently Learning:
-### **Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+- 🎓 **1st Class Software Engineering graduate**
+- 👨‍💻 **Aspiring developer**, building projects and sharpening my skills as I go
+- 🖥️ **Computer enthusiast**, always curious how things work under the hood
+- 🎨 Designing in **Figma** and planning in **Trello**
+- 🎯 Next on my list: **React, C#, C++, Unreal Engine, Java & Lua**
+- 📫 Want to talk code? Reach me at [xleo.dev@gmail.com](mailto:xleo.dev@gmail.com)
 
-### **Tools:**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## ❯ Tech stack
 
-### **Wanting To Learn:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-<hr>
+**Languages & databases**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Leoelo4&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-<hr>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=58a6ff)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=58a6ff)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=58a6ff)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=58a6ff)
+
+**Tools**
+
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=79c0ff)
+![Trello](https://img.shields.io/badge/Trello-0d1117?style=for-the-badge&logo=trello&logoColor=79c0ff)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=79c0ff)
+
+**Up next**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=a5d6ff)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=a5d6ff)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=a5d6ff)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0d1117?style=for-the-badge&logo=unrealengine&logoColor=a5d6ff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=a5d6ff)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=a5d6ff)
+![After Effects](https://img.shields.io/badge/After_Effects-0d1117?style=for-the-badge&logo=adobeaftereffects&logoColor=a5d6ff)
+
+## ❯ GitHub stats
+
+<div align="center">
+
+<img height="160" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Leoelo4&theme=transparent&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakNum=79c0ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681&border=30363d&card_width=495"/>
+<img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Leoelo4&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&border_radius=12&count_private=true"/>
+
+<img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoelo4&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&langs_count=6"/>
+<img width="525" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leoelo4&theme=github_dark"/>
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leoelo4/Leoelo4/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leoelo4/Leoelo4/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Leoelo4/Leoelo4/output/github-snake.svg" />
 </picture>
-<hr>
 
-## 🌐 Socials:
-### Reach out to me using:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Leo.mills1709@gmail.com)
-<hr>
+<img src="/footer.svg" alt="leo@xleo:~$ echo thanks for stopping by" width="100%"/>
